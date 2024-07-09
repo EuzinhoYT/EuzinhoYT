@@ -8,7 +8,7 @@
 📫 How to reach me: ivan.rodrigues@estudante.ifms.edu.br</br>
 😄 Pronouns: he/him</br>
 ⚡ Fun fact: I'm a fan of Japanese culture and I love games</br>
-🤓 I'm a student at IFMS-PP </h3>
+🤓 I'm a student at: IFMS-PP </h3>
 </head>
 
 
