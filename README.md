@@ -2,29 +2,29 @@
 
 <head>
     <style>
-        * {
+        *{
             box-sizing: border-box;
             padding: 0;
             margin: 0;
         }
 
-        .texto {
+.texto{
             font-family: verdana, impact;
             margin-left: 30%;
         }
-        #borda {
+ #borda{
 
-            border-top: 90px;
-            border-style: solid;
-            border-color:black ;
-            border-radius: 0px 0px 100px 100px;
-        }
+border-top: 90px;
+border-style: solid;
+ border-color:black ;
+ border-radius: 0px 0px 100px 100px;
+ }
 
-        body {
+body{
             color: antiquewhite;
             background-color: rgb(75, 29, 150);
         }
-    </style>
+</style>
 </head>
 
 <body>
