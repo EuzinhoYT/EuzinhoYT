@@ -1,5 +1,4 @@
 <html>
-<html>
 <head>
   <h1>
     Hello, my name is Ivan, nickname "Euzim"
